@@ -12,8 +12,8 @@ for (r in c(1:10000))
   genesubset1 = genome[union(iGOI,iG1),]
   hm1<-pheatmap(as.matrix(genesubset1), 
                  cluster_cols=F, cluster_rows=T, scale = "row", 
-                 clustering_method = "complete",cutree_rows = 10,silent=T)
-  out1<-sort(cutree(hm1$tree_row, k=10))
+                 clustering_method = "complete",cutree_rows = 9,silent=T)
+  out1<-sort(cutree(hm1$tree_row, k=9))
   GOI_clades = out1[which(names(out1) %in% GOI)]
   GOI_clades = GOI_clades[order(names(GOI_clades))]
   nGOIclades[r] = length(unique(GOI_clades))
@@ -26,12 +26,12 @@ GOC=sample(rownames(genome),length(GOI),replace=F)
 iGOC = which(row.names(genome) %in% GOC)
 nGOCclades = c()
 for (r in c(1:10000))
-{ iG2 = sample(setdiff(1:Ngenome,iGOC),119-length(iGOC),replace=F)
+{ iG2 = sample(setdiff(1:Ngenome,iGOC),123-length(iGOC),replace=F)
   genesubset2 = genome[union(iGOC,iG2),]
   hm2<-pheatmap(as.matrix(genesubset2), 
                 cluster_cols=F, cluster_rows=T, scale = "row", 
-                clustering_method = "complete",cutree_rows = 10,silent=T)
-  out2<-sort(cutree(hm2$tree_row, k=10))
+                clustering_method = "complete",cutree_rows = 9,silent=T)
+  out2<-sort(cutree(hm2$tree_row, k=9))
   GOC_clades = out2[which(names(out2) %in% GOC)]
   GOC_clades = GOC_clades[order(names(GOC_clades))]
   nGOCclades[r] = length(unique(GOC_clades))
