@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <graph edgedefault="directed" id="9-25">
+        <node id="5740">
+            <data key="name">SYNGAP</data>
+        </node>
+        <node id="5739">
+            <data key="name">CAMK2A</data>
+        </node>
+        <node id="5738">
+            <data key="name">CTNND2</data>
+        </node>
+        <node id="5737">
+            <data key="name">CRIPT</data>
+        </node>
+        <node id="5736">
+            <data key="name">PICK1</data>
+        </node>
+        <node id="5735">
+            <data key="name">LIN7B</data>
+        </node>
+        <node id="5734">
+            <data key="name">VTI1A</data>
+        </node>
+        <node id="5733">
+            <data key="name">GRASP</data>
+        </node>
+        <node id="5732">
+            <data key="name">HOMER1</data>
+        </node>
+        <node id="5731">
+            <data key="name">STXBP4</data>
+        </node>
+        <node id="5730">
+            <data key="name">SYP</data>
+        </node>
+        <node id="5729">
+            <data key="name">NOS1</data>
+        </node>
+        <node id="5728">
+            <data key="name">DLG2</data>
+        </node>
+        <node id="5727">
+            <data key="name">GRIP1</data>
+        </node>
+        <node id="5726">
+            <data key="name">GRM3</data>
+        </node>
+        <node id="5725">
+            <data key="name">CAMK2B</data>
+        </node>
+        <node id="5724">
+            <data key="name">ATP2B2</data>
+        </node>
+        <node id="5723">
+            <data key="name">APBA1</data>
+        </node>
+        <node id="5722">
+            <data key="name">NAPA</data>
+        </node>
+        <node id="5721">
+            <data key="name">EPHB1</data>
+        </node>
+        <node id="5720">
+            <data key="name">GIT2</data>
+        </node>
+        <node id="5719">
+            <data key="name">VPS18</data>
+        </node>
+        <node id="5718">
+            <data key="name">VPS16</data>
+        </node>
+        <node id="5717">
+            <data key="name">VPS11</data>
+        </node>
+        <node id="5716">
+            <data key="name">RABGGTB</data>
+        </node>
+        <node id="5715">
+            <data key="name">RAB5C</data>
+        </node>
+        <node id="5714">
+            <data key="name">SNAPIN</data>
+        </node>
+        <node id="5713">
+            <data key="name">RABAC1</data>
+        </node>
+        <node id="5712">
+            <data key="name">PFN2</data>
+        </node>
+        <node id="5711">
+            <data key="name">ATP6V0C</data>
+        </node>
+        <node id="5710">
+            <data key="name">RAB3B</data>
+        </node>
+        <node id="5709">
+            <data key="name">CHM</data>
+        </node>
+        <node id="5708">
+            <data key="name">ATP6V1F</data>
+        </node>
+        <node id="5707">
+            <data key="name">VTI1B</data>
+        </node>
+        <node id="5706">
+            <data key="name">VAMP8</data>
+        </node>
+        <node id="5705">
+            <data key="name">STX12</data>
+        </node>
+        <node id="5704">
+            <data key="name">DNAJC5</data>
+        </node>
+        <node id="5703">
+            <data key="name">ATP6V1E1</data>
+        </node>
+        <node id="5702">
+            <data key="name">ATP6V1D</data>
+        </node>
+        <node id="5701">
+            <data key="name">ATP6V1C1</data>
+        </node>
+        <node id="5700">
+            <data key="name">ATP6V1A</data>
+        </node>
+        <node id="5699">
+            <data key="name">ATP6V0D1</data>
+        </node>
+        <node id="5698">
+            <data key="name">ATP6V0A1</data>
+        </node>
+        <node id="5697">
+            <data key="name">ATP6V1B1</data>
+        </node>
+        <node id="5696">
+            <data key="name">STX5</data>
+        </node>
+        <node id="5695">
+            <data key="name">MAGI3</data>
+        </node>
+        <node id="5694">
+            <data key="name">SHANK2</data>
+        </node>
+        <node id="5693">
+            <data key="name">PACSIN2</data>
+        </node>
+        <node id="5692">
+            <data key="name">RAB11B</data>
+        </node>
+        <node id="5691">
+            <data key="name">CTTN</data>
+        </node>
+        <node id="5690">
+            <data key="name">DLG1</data>
+        </node>
+        <node id="5689">
+            <data key="name">SCRIB</data>
+        </node>
+        <node id="5688">
+            <data key="name">VPS33A</data>
+        </node>
+        <node id="5687">
+            <data key="name">CLTB</data>
+        </node>
+        <node id="5686">
+            <data key="name">STXBP1</data>
+        </node>
+        <node id="5685">
+            <data key="name">PRKCB</data>
+        </node>
+        <node id="5684">
+            <data key="name">ATP6V1H</data>
+        </node>
+        <node id="5683">
+            <data key="name">EPN1</data>
+        </node>
+        <node id="5682">
+            <data key="name">RAB7A</data>
+        </node>
+        <node id="5681">
+            <data key="name">CDH1</data>
+        </node>
+        <node id="5680">
+            <data key="name">AP2S1</data>
+        </node>
+        <node id="5679">
+            <data key="name">VPS33B</data>
+        </node>
+        <node id="5678">
+            <data key="name">CTNNA1</data>
+        </node>
+        <node id="5677">
+            <data key="name">DNM2</data>
+        </node>
+        <node id="5676">
+            <data key="name">CTNNB1</data>
+        </node>
+        <node id="5675">
+            <data key="name">EGFR</data>
+        </node>
+        <node id="5674">
+            <data key="name">ABL1</data>
+        </node>
+        <node id="5673">
+            <data key="name">RAB3GAP2</data>
+        </node>
+        <node id="5672">
+            <data key="name">RAB3GAP1</data>
+        </node>
+        <node id="5671">
+            <data key="name">VAPB</data>
+        </node>
+        <node id="5670">
+            <data key="name">EPN2</data>
+        </node>
+        <node id="5669">
+            <data key="name">DNM1</data>
+        </node>
+        <node id="5668">
+            <data key="name">AMPH</data>
+        </node>
+        <node id="5667">
+            <data key="name">GABBR1</data>
+        </node>
+        <node id="5666">
+            <data key="name">NSF</data>
+        </node>
+        <node id="5665">
+            <data key="name">GABBR2</data>
+        </node>
+        <node id="5664">
+            <data key="name">PTPRF</data>
+        </node>
+        <node id="5663">
+            <data key="name">PPFIA2</data>
+        </node>
+        <node id="5662">
+            <data key="name">AP2A2</data>
+        </node>
+        <node id="5661">
+            <data key="name">AP2B1</data>
+        </node>
+        <node id="5660">
+            <data key="name">SNAP91</data>
+        </node>
+        <node id="5659">
+            <data key="name">SYT7</data>
+        </node>
+        <node id="5658">
+            <data key="name">CLTC</data>
+        </node>
+        <node id="5657">
+            <data key="name">SYNJ1</data>
+        </node>
+        <node id="5656">
+            <data key="name">RAB3IP</data>
+        </node>
+        <node id="5655">
+            <data key="name">SIPA1L1</data>
+        </node>
+        <node id="5654">
+            <data key="name">SNAP25</data>
+        </node>
+        <node id="5653">
+            <data key="name">STX1B</data>
+        </node>
+        <node id="5652">
+            <data key="name">UNC13B</data>
+        </node>
+        <node id="5651">
+            <data key="name">STX2</data>
+        </node>
+        <node id="5650">
+            <data key="name">STX1A</data>
+        </node>
+        <node id="5649">
+            <data key="name">STX16</data>
+        </node>
+        <node id="5648">
+            <data key="name">SYT1</data>
+        </node>
+        <node id="5647">
+            <data key="name">RIMBP2</data>
+        </node>
+        <node id="5646">
+            <data key="name">AP2M1</data>
+        </node>
+        <node id="5645">
+            <data key="name">CACNA1A</data>
+        </node>
+        <node id="5644">
+            <data key="name">SEMA5B</data>
+        </node>
+        <node id="5643">
+            <data key="name">PLXNA3</data>
+        </node>
+        <node id="5642">
+            <data key="name">CIT</data>
+        </node>
+        <node id="5641">
+            <data key="name">SYNGR2</data>
+        </node>
+        <node id="5640">
+            <data key="name">SYNPR</data>
+        </node>
+        <node id="5639">
+            <data key="name">SLC17A6</data>
+        </node>
+        <node id="5638">
+            <data key="name">PFN4</data>
+        </node>
+        <node id="5637">
+            <data key="name">GRM8</data>
+        </node>
+        <node id="5636">
+            <data key="name">ITPR3</data>
+        </node>
+        <node id="5635">
+            <data key="name">SLC17A7</data>
+        </node>
+        <node id="5634">
+            <data key="name">ATP6V0E2</data>
+        </node>
+        <node id="5633">
+            <data key="name">ATP6V0B</data>
+        </node>
+        <edge source="5740" target="5728">
+            <data key="name">SYNGAP1 (interacts with) DLG2</data>
+        </edge>
+        <edge source="5740" target="5694">
+            <data key="name">SYNGAP1 (interacts with) SHANK2</data>
+        </edge>
+        <edge source="5739" target="5729">
+            <data key="name">CAMK2A (interacts with) NOS1</data>
+        </edge>
+        <edge source="5739" target="5675">
+            <data key="name">CAMK2A (interacts with) EGFR</data>
+        </edge>
+        <edge source="5739" target="5740">
+            <data key="name">CAMK2A (interacts with) SYNGAP1</data>
+        </edge>
+        <edge source="5739" target="5690">
+            <data key="name">CAMK2A (interacts with) DLG1</data>
+        </edge>
+        <edge source="5739" target="5725">
+            <data key="name">CAMK2A (interacts with) CAMK2B</data>
+        </edge>
+        <edge source="5739" target="5736">
+            <data key="name">CAMK2A (interacts with) PICK1</data>
+        </edge>
+        <edge source="5739" target="5723">
+            <data key="name">CAMK2A (interacts with) APBA1</data>
+        </edge>
+        <edge source="5739" target="5703">
+            <data key="name">CAMK2A (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5739" target="5730">
+            <data key="name">CAMK2A (interacts with) SYP</data>
+        </edge>
+        <edge source="5739" target="5728">
+            <data key="name">CAMK2A (interacts with) DLG2</data>
+        </edge>
+        <edge source="5739" target="5735">
+            <data key="name">CAMK2A (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5738" target="5681">
+            <data key="name">CTNND2 (interacts with) CDH1</data>
+        </edge>
+        <edge source="5738" target="5690">
+            <data key="name">CTNND2 (interacts with) DLG1</data>
+        </edge>
+        <edge source="5738" target="5689">
+            <data key="name">CTNND2 (interacts with) SCRIB</data>
+        </edge>
+        <edge source="5738" target="5675">
+            <data key="name">CTNND2 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5738" target="5678">
+            <data key="name">CTNND2 (interacts with) CTNNA1</data>
+        </edge>
+        <edge source="5736" target="5676">
+            <data key="name">PICK1 (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5736" target="5690">
+            <data key="name">PICK1 (interacts with) DLG1</data>
+        </edge>
+        <edge source="5736" target="5685">
+            <data key="name">PICK1 (interacts with) PRKCB</data>
+        </edge>
+        <edge source="5734" target="5706">
+            <data key="name">VTI1A (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5734" target="5649">
+            <data key="name">VTI1A (interacts with) STX16</data>
+        </edge>
+        <edge source="5734" target="5648">
+            <data key="name">VTI1A (interacts with) SYT1</data>
+        </edge>
+        <edge source="5734" target="5682">
+            <data key="name">VTI1A (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5734" target="5650">
+            <data key="name">VTI1A (interacts with) STX1A</data>
+        </edge>
+        <edge source="5734" target="5686">
+            <data key="name">VTI1A (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5734" target="5688">
+            <data key="name">VTI1A (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5734" target="5670">
+            <data key="name">VTI1A (interacts with) EPN2</data>
+        </edge>
+        <edge source="5734" target="5679">
+            <data key="name">VTI1A (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5734" target="5653">
+            <data key="name">VTI1A (interacts with) STX1B</data>
+        </edge>
+        <edge source="5734" target="5651">
+            <data key="name">VTI1A (interacts with) STX2</data>
+        </edge>
+        <edge source="5734" target="5654">
+            <data key="name">VTI1A (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5734" target="5722">
+            <data key="name">VTI1A (interacts with) NAPA</data>
+        </edge>
+        <edge source="5734" target="5696">
+            <data key="name">VTI1A (interacts with) STX5</data>
+        </edge>
+        <edge source="5733" target="5665">
+            <data key="name">GRASP (interacts with) GABBR2</data>
+        </edge>
+        <edge source="5733" target="5726">
+            <data key="name">GRASP (interacts with) GRM3</data>
+        </edge>
+        <edge source="5732" target="5705">
+            <data key="name">HOMER1 (interacts with) STX12</data>
+        </edge>
+        <edge source="5731" target="5732">
+            <data key="name">STXBP4 (interacts with) HOMER1</data>
+        </edge>
+        <edge source="5730" target="5639">
+            <data key="name">SYP (interacts with) SLC17A6</data>
+        </edge>
+        <edge source="5730" target="5648">
+            <data key="name">SYP (interacts with) SYT1</data>
+        </edge>
+        <edge source="5730" target="5635">
+            <data key="name">SYP (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5730" target="5654">
+            <data key="name">SYP (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5729" target="5675">
+            <data key="name">NOS1 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5729" target="5685">
+            <data key="name">NOS1 (interacts with) PRKCB</data>
+        </edge>
+        <edge source="5728" target="5729">
+            <data key="name">DLG2 (interacts with) NOS1</data>
+        </edge>
+        <edge source="5728" target="5690">
+            <data key="name">DLG2 (interacts with) DLG1</data>
+        </edge>
+        <edge source="5728" target="5724">
+            <data key="name">DLG2 (interacts with) ATP2B2</data>
+        </edge>
+        <edge source="5728" target="5736">
+            <data key="name">DLG2 (interacts with) PICK1</data>
+        </edge>
+        <edge source="5728" target="5676">
+            <data key="name">DLG2 (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5728" target="5735">
+            <data key="name">DLG2 (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5728" target="5737">
+            <data key="name">DLG2 (interacts with) CRIPT</data>
+        </edge>
+        <edge source="5728" target="5689">
+            <data key="name">DLG2 (interacts with) SCRIB</data>
+        </edge>
+        <edge source="5728" target="5732">
+            <data key="name">DLG2 (interacts with) HOMER1</data>
+        </edge>
+        <edge source="5728" target="5694">
+            <data key="name">DLG2 (interacts with) SHANK2</data>
+        </edge>
+        <edge source="5727" target="5664">
+            <data key="name">GRIP1 (interacts with) PTPRF</data>
+        </edge>
+        <edge source="5727" target="5721">
+            <data key="name">GRIP1 (interacts with) EPHB1</data>
+        </edge>
+        <edge source="5727" target="5685">
+            <data key="name">GRIP1 (interacts with) PRKCB</data>
+        </edge>
+        <edge source="5727" target="5736">
+            <data key="name">GRIP1 (interacts with) PICK1</data>
+        </edge>
+        <edge source="5726" target="5727">
+            <data key="name">GRM3 (interacts with) GRIP1</data>
+        </edge>
+        <edge source="5726" target="5736">
+            <data key="name">GRM3 (interacts with) PICK1</data>
+        </edge>
+        <edge source="5726" target="5637">
+            <data key="name">GRM3 (interacts with) GRM8</data>
+        </edge>
+        <edge source="5726" target="5665">
+            <data key="name">GRM3 (interacts with) GABBR2</data>
+        </edge>
+        <edge source="5725" target="5726">
+            <data key="name">CAMK2B (interacts with) GRM3</data>
+        </edge>
+        <edge source="5725" target="5703">
+            <data key="name">CAMK2B (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5725" target="5728">
+            <data key="name">CAMK2B (interacts with) DLG2</data>
+        </edge>
+        <edge source="5725" target="5735">
+            <data key="name">CAMK2B (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5725" target="5729">
+            <data key="name">CAMK2B (interacts with) NOS1</data>
+        </edge>
+        <edge source="5725" target="5690">
+            <data key="name">CAMK2B (interacts with) DLG1</data>
+        </edge>
+        <edge source="5723" target="5650">
+            <data key="name">APBA1 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5723" target="5648">
+            <data key="name">APBA1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5723" target="5654">
+            <data key="name">APBA1 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5723" target="5735">
+            <data key="name">APBA1 (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5722" target="5654">
+            <data key="name">NAPA (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5722" target="5650">
+            <data key="name">NAPA (interacts with) STX1A</data>
+        </edge>
+        <edge source="5722" target="5648">
+            <data key="name">NAPA (interacts with) SYT1</data>
+        </edge>
+        <edge source="5722" target="5653">
+            <data key="name">NAPA (interacts with) STX1B</data>
+        </edge>
+        <edge source="5721" target="5687">
+            <data key="name">EPHB1 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5721" target="5646">
+            <data key="name">EPHB1 (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5721" target="5680">
+            <data key="name">EPHB1 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5721" target="5674">
+            <data key="name">EPHB1 (interacts with) ABL1</data>
+        </edge>
+        <edge source="5721" target="5658">
+            <data key="name">EPHB1 (interacts with) CLTC</data>
+        </edge>
+        <edge source="5721" target="5661">
+            <data key="name">EPHB1 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5721" target="5669">
+            <data key="name">EPHB1 (interacts with) DNM1</data>
+        </edge>
+        <edge source="5718" target="5688">
+            <data key="name">VPS16 (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5718" target="5715">
+            <data key="name">VPS16 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5718" target="5698">
+            <data key="name">VPS16 (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5718" target="5649">
+            <data key="name">VPS16 (interacts with) STX16</data>
+        </edge>
+        <edge source="5718" target="5705">
+            <data key="name">VPS16 (interacts with) STX12</data>
+        </edge>
+        <edge source="5718" target="5686">
+            <data key="name">VPS16 (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5718" target="5679">
+            <data key="name">VPS16 (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5718" target="5719">
+            <data key="name">VPS16 (interacts with) VPS18</data>
+        </edge>
+        <edge source="5717" target="5688">
+            <data key="name">VPS11 (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5717" target="5689">
+            <data key="name">VPS11 (interacts with) SCRIB</data>
+        </edge>
+        <edge source="5717" target="5718">
+            <data key="name">VPS11 (interacts with) VPS16</data>
+        </edge>
+        <edge source="5717" target="5719">
+            <data key="name">VPS11 (interacts with) VPS18</data>
+        </edge>
+        <edge source="5716" target="5720">
+            <data key="name">RABGGTB (interacts with) GIT2</data>
+        </edge>
+        <edge source="5715" target="5709">
+            <data key="name">RAB5C (interacts with) CHM</data>
+        </edge>
+        <edge source="5715" target="5700">
+            <data key="name">RAB5C (interacts with) ATP6V1A</data>
+        </edge>
+        <edge source="5715" target="5698">
+            <data key="name">RAB5C (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5715" target="5699">
+            <data key="name">RAB5C (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5715" target="5680">
+            <data key="name">RAB5C (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5715" target="5646">
+            <data key="name">RAB5C (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5715" target="5648">
+            <data key="name">RAB5C (interacts with) SYT1</data>
+        </edge>
+        <edge source="5715" target="5661">
+            <data key="name">RAB5C (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5715" target="5687">
+            <data key="name">RAB5C (interacts with) CLTB</data>
+        </edge>
+        <edge source="5715" target="5675">
+            <data key="name">RAB5C (interacts with) EGFR</data>
+        </edge>
+        <edge source="5715" target="5670">
+            <data key="name">RAB5C (interacts with) EPN2</data>
+        </edge>
+        <edge source="5715" target="5706">
+            <data key="name">RAB5C (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5715" target="5722">
+            <data key="name">RAB5C (interacts with) NAPA</data>
+        </edge>
+        <edge source="5715" target="5693">
+            <data key="name">RAB5C (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5715" target="5658">
+            <data key="name">RAB5C (interacts with) CLTC</data>
+        </edge>
+        <edge source="5714" target="5715">
+            <data key="name">SNAPIN (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5714" target="5722">
+            <data key="name">SNAPIN (interacts with) NAPA</data>
+        </edge>
+        <edge source="5714" target="5706">
+            <data key="name">SNAPIN (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5713" target="5715">
+            <data key="name">RABAC1 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5711" target="5699">
+            <data key="name">ATP6V0C (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5711" target="5703">
+            <data key="name">ATP6V0C (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5711" target="5698">
+            <data key="name">ATP6V0C (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5711" target="5697">
+            <data key="name">ATP6V0C (interacts with) ATP6V1B1</data>
+        </edge>
+        <edge source="5711" target="5702">
+            <data key="name">ATP6V0C (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5711" target="5700">
+            <data key="name">ATP6V0C (interacts with) ATP6V1A</data>
+        </edge>
+        <edge source="5710" target="5653">
+            <data key="name">RAB3B (interacts with) STX1B</data>
+        </edge>
+        <edge source="5710" target="5650">
+            <data key="name">RAB3B (interacts with) STX1A</data>
+        </edge>
+        <edge source="5710" target="5654">
+            <data key="name">RAB3B (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5710" target="5648">
+            <data key="name">RAB3B (interacts with) SYT1</data>
+        </edge>
+        <edge source="5709" target="5710">
+            <data key="name">CHM (interacts with) RAB3B</data>
+        </edge>
+        <edge source="5709" target="5716">
+            <data key="name">CHM (interacts with) RABGGTB</data>
+        </edge>
+        <edge source="5708" target="5684">
+            <data key="name">ATP6V1F (interacts with) ATP6V1H</data>
+        </edge>
+        <edge source="5708" target="5634">
+            <data key="name">ATP6V1F (interacts with) ATP6V0E2</data>
+        </edge>
+        <edge source="5708" target="5711">
+            <data key="name">ATP6V1F (interacts with) ATP6V0C</data>
+        </edge>
+        <edge source="5708" target="5698">
+            <data key="name">ATP6V1F (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5708" target="5701">
+            <data key="name">ATP6V1F (interacts with) ATP6V1C1</data>
+        </edge>
+        <edge source="5708" target="5699">
+            <data key="name">ATP6V1F (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5707" target="5705">
+            <data key="name">VTI1B (interacts with) STX12</data>
+        </edge>
+        <edge source="5707" target="5722">
+            <data key="name">VTI1B (interacts with) NAPA</data>
+        </edge>
+        <edge source="5707" target="5650">
+            <data key="name">VTI1B (interacts with) STX1A</data>
+        </edge>
+        <edge source="5707" target="5651">
+            <data key="name">VTI1B (interacts with) STX2</data>
+        </edge>
+        <edge source="5707" target="5706">
+            <data key="name">VTI1B (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5707" target="5715">
+            <data key="name">VTI1B (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5707" target="5660">
+            <data key="name">VTI1B (interacts with) SNAP91</data>
+        </edge>
+        <edge source="5707" target="5652">
+            <data key="name">VTI1B (interacts with) UNC13B</data>
+        </edge>
+        <edge source="5707" target="5657">
+            <data key="name">VTI1B (interacts with) SYNJ1</data>
+        </edge>
+        <edge source="5707" target="5719">
+            <data key="name">VTI1B (interacts with) VPS18</data>
+        </edge>
+        <edge source="5707" target="5682">
+            <data key="name">VTI1B (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5707" target="5718">
+            <data key="name">VTI1B (interacts with) VPS16</data>
+        </edge>
+        <edge source="5707" target="5730">
+            <data key="name">VTI1B (interacts with) SYP</data>
+        </edge>
+        <edge source="5707" target="5731">
+            <data key="name">VTI1B (interacts with) STXBP4</data>
+        </edge>
+        <edge source="5707" target="5670">
+            <data key="name">VTI1B (interacts with) EPN2</data>
+        </edge>
+        <edge source="5707" target="5679">
+            <data key="name">VTI1B (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5707" target="5648">
+            <data key="name">VTI1B (interacts with) SYT1</data>
+        </edge>
+        <edge source="5707" target="5688">
+            <data key="name">VTI1B (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5707" target="5683">
+            <data key="name">VTI1B (interacts with) EPN1</data>
+        </edge>
+        <edge source="5707" target="5734">
+            <data key="name">VTI1B (interacts with) VTI1A</data>
+        </edge>
+        <edge source="5707" target="5653">
+            <data key="name">VTI1B (interacts with) STX1B</data>
+        </edge>
+        <edge source="5707" target="5686">
+            <data key="name">VTI1B (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5707" target="5654">
+            <data key="name">VTI1B (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5707" target="5649">
+            <data key="name">VTI1B (interacts with) STX16</data>
+        </edge>
+        <edge source="5706" target="5653">
+            <data key="name">VAMP8 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5706" target="5654">
+            <data key="name">VAMP8 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5706" target="5650">
+            <data key="name">VAMP8 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5706" target="5693">
+            <data key="name">VAMP8 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5706" target="5680">
+            <data key="name">VAMP8 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5706" target="5648">
+            <data key="name">VAMP8 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5706" target="5722">
+            <data key="name">VAMP8 (interacts with) NAPA</data>
+        </edge>
+        <edge source="5705" target="5706">
+            <data key="name">STX12 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5705" target="5696">
+            <data key="name">STX12 (interacts with) STX5</data>
+        </edge>
+        <edge source="5705" target="5722">
+            <data key="name">STX12 (interacts with) NAPA</data>
+        </edge>
+        <edge source="5705" target="5654">
+            <data key="name">STX12 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5705" target="5734">
+            <data key="name">STX12 (interacts with) VTI1A</data>
+        </edge>
+        <edge source="5705" target="5658">
+            <data key="name">STX12 (interacts with) CLTC</data>
+        </edge>
+        <edge source="5705" target="5715">
+            <data key="name">STX12 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5705" target="5719">
+            <data key="name">STX12 (interacts with) VPS18</data>
+        </edge>
+        <edge source="5705" target="5686">
+            <data key="name">STX12 (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5705" target="5682">
+            <data key="name">STX12 (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5705" target="5653">
+            <data key="name">STX12 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5705" target="5649">
+            <data key="name">STX12 (interacts with) STX16</data>
+        </edge>
+        <edge source="5705" target="5679">
+            <data key="name">STX12 (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5705" target="5688">
+            <data key="name">STX12 (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5704" target="5653">
+            <data key="name">DNAJC5 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5704" target="5648">
+            <data key="name">DNAJC5 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5704" target="5650">
+            <data key="name">DNAJC5 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5704" target="5654">
+            <data key="name">DNAJC5 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5703" target="5708">
+            <data key="name">ATP6V1E1 (interacts with) ATP6V1F</data>
+        </edge>
+        <edge source="5702" target="5708">
+            <data key="name">ATP6V1D (interacts with) ATP6V1F</data>
+        </edge>
+        <edge source="5702" target="5703">
+            <data key="name">ATP6V1D (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5701" target="5691">
+            <data key="name">ATP6V1C1 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5701" target="5703">
+            <data key="name">ATP6V1C1 (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5701" target="5711">
+            <data key="name">ATP6V1C1 (interacts with) ATP6V0C</data>
+        </edge>
+        <edge source="5701" target="5698">
+            <data key="name">ATP6V1C1 (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5701" target="5699">
+            <data key="name">ATP6V1C1 (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5701" target="5684">
+            <data key="name">ATP6V1C1 (interacts with) ATP6V1H</data>
+        </edge>
+        <edge source="5701" target="5702">
+            <data key="name">ATP6V1C1 (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5700" target="5708">
+            <data key="name">ATP6V1A (interacts with) ATP6V1F</data>
+        </edge>
+        <edge source="5700" target="5698">
+            <data key="name">ATP6V1A (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5700" target="5703">
+            <data key="name">ATP6V1A (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5700" target="5701">
+            <data key="name">ATP6V1A (interacts with) ATP6V1C1</data>
+        </edge>
+        <edge source="5700" target="5702">
+            <data key="name">ATP6V1A (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5700" target="5704">
+            <data key="name">ATP6V1A (interacts with) DNAJC5</data>
+        </edge>
+        <edge source="5700" target="5706">
+            <data key="name">ATP6V1A (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5700" target="5707">
+            <data key="name">ATP6V1A (interacts with) VTI1B</data>
+        </edge>
+        <edge source="5699" target="5698">
+            <data key="name">ATP6V0D1 (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5699" target="5703">
+            <data key="name">ATP6V0D1 (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5699" target="5702">
+            <data key="name">ATP6V0D1 (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5699" target="5700">
+            <data key="name">ATP6V0D1 (interacts with) ATP6V1A</data>
+        </edge>
+        <edge source="5698" target="5703">
+            <data key="name">ATP6V0A1 (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5698" target="5702">
+            <data key="name">ATP6V0A1 (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5697" target="5708">
+            <data key="name">ATP6V1B1 (interacts with) ATP6V1F</data>
+        </edge>
+        <edge source="5697" target="5707">
+            <data key="name">ATP6V1B1 (interacts with) VTI1B</data>
+        </edge>
+        <edge source="5697" target="5706">
+            <data key="name">ATP6V1B1 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5697" target="5705">
+            <data key="name">ATP6V1B1 (interacts with) STX12</data>
+        </edge>
+        <edge source="5697" target="5704">
+            <data key="name">ATP6V1B1 (interacts with) DNAJC5</data>
+        </edge>
+        <edge source="5697" target="5703">
+            <data key="name">ATP6V1B1 (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5697" target="5702">
+            <data key="name">ATP6V1B1 (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5697" target="5701">
+            <data key="name">ATP6V1B1 (interacts with) ATP6V1C1</data>
+        </edge>
+        <edge source="5697" target="5700">
+            <data key="name">ATP6V1B1 (interacts with) ATP6V1A</data>
+        </edge>
+        <edge source="5697" target="5699">
+            <data key="name">ATP6V1B1 (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5697" target="5698">
+            <data key="name">ATP6V1B1 (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5696" target="5707">
+            <data key="name">STX5 (interacts with) VTI1B</data>
+        </edge>
+        <edge source="5696" target="5650">
+            <data key="name">STX5 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5696" target="5648">
+            <data key="name">STX5 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5696" target="5682">
+            <data key="name">STX5 (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5696" target="5688">
+            <data key="name">STX5 (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5696" target="5653">
+            <data key="name">STX5 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5696" target="5706">
+            <data key="name">STX5 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5696" target="5722">
+            <data key="name">STX5 (interacts with) NAPA</data>
+        </edge>
+        <edge source="5694" target="5732">
+            <data key="name">SHANK2 (interacts with) HOMER1</data>
+        </edge>
+        <edge source="5693" target="5648">
+            <data key="name">PACSIN2 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5692" target="5715">
+            <data key="name">RAB11B (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5692" target="5709">
+            <data key="name">RAB11B (interacts with) CHM</data>
+        </edge>
+        <edge source="5692" target="5650">
+            <data key="name">RAB11B (interacts with) STX1A</data>
+        </edge>
+        <edge source="5692" target="5653">
+            <data key="name">RAB11B (interacts with) STX1B</data>
+        </edge>
+        <edge source="5691" target="5675">
+            <data key="name">CTTN (interacts with) EGFR</data>
+        </edge>
+        <edge source="5691" target="5665">
+            <data key="name">CTTN (interacts with) GABBR2</data>
+        </edge>
+        <edge source="5691" target="5738">
+            <data key="name">CTTN (interacts with) CTNND2</data>
+        </edge>
+        <edge source="5691" target="5694">
+            <data key="name">CTTN (interacts with) SHANK2</data>
+        </edge>
+        <edge source="5691" target="5715">
+            <data key="name">CTTN (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5691" target="5670">
+            <data key="name">CTTN (interacts with) EPN2</data>
+        </edge>
+        <edge source="5691" target="5646">
+            <data key="name">CTTN (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5691" target="5680">
+            <data key="name">CTTN (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5691" target="5706">
+            <data key="name">CTTN (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5691" target="5687">
+            <data key="name">CTTN (interacts with) CLTB</data>
+        </edge>
+        <edge source="5691" target="5648">
+            <data key="name">CTTN (interacts with) SYT1</data>
+        </edge>
+        <edge source="5691" target="5661">
+            <data key="name">CTTN (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5691" target="5658">
+            <data key="name">CTTN (interacts with) CLTC</data>
+        </edge>
+        <edge source="5691" target="5660">
+            <data key="name">CTTN (interacts with) SNAP91</data>
+        </edge>
+        <edge source="5691" target="5693">
+            <data key="name">CTTN (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5691" target="5720">
+            <data key="name">CTTN (interacts with) GIT2</data>
+        </edge>
+        <edge source="5691" target="5676">
+            <data key="name">CTTN (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5691" target="5668">
+            <data key="name">CTTN (interacts with) AMPH</data>
+        </edge>
+        <edge source="5690" target="5723">
+            <data key="name">DLG1 (interacts with) APBA1</data>
+        </edge>
+        <edge source="5690" target="5724">
+            <data key="name">DLG1 (interacts with) ATP2B2</data>
+        </edge>
+        <edge source="5690" target="5737">
+            <data key="name">DLG1 (interacts with) CRIPT</data>
+        </edge>
+        <edge source="5690" target="5735">
+            <data key="name">DLG1 (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5690" target="5676">
+            <data key="name">DLG1 (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5689" target="5690">
+            <data key="name">SCRIB (interacts with) DLG1</data>
+        </edge>
+        <edge source="5688" target="5719">
+            <data key="name">VPS33A (interacts with) VPS18</data>
+        </edge>
+        <edge source="5688" target="5706">
+            <data key="name">VPS33A (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5688" target="5654">
+            <data key="name">VPS33A (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5688" target="5653">
+            <data key="name">VPS33A (interacts with) STX1B</data>
+        </edge>
+        <edge source="5688" target="5650">
+            <data key="name">VPS33A (interacts with) STX1A</data>
+        </edge>
+        <edge source="5688" target="5722">
+            <data key="name">VPS33A (interacts with) NAPA</data>
+        </edge>
+        <edge source="5688" target="5682">
+            <data key="name">VPS33A (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5687" target="5679">
+            <data key="name">CLTB (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5687" target="5688">
+            <data key="name">CLTB (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5687" target="5680">
+            <data key="name">CLTB (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5687" target="5658">
+            <data key="name">CLTB (interacts with) CLTC</data>
+        </edge>
+        <edge source="5687" target="5646">
+            <data key="name">CLTB (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5687" target="5693">
+            <data key="name">CLTB (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5687" target="5648">
+            <data key="name">CLTB (interacts with) SYT1</data>
+        </edge>
+        <edge source="5687" target="5675">
+            <data key="name">CLTB (interacts with) EGFR</data>
+        </edge>
+        <edge source="5687" target="5706">
+            <data key="name">CLTB (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5686" target="5650">
+            <data key="name">STXBP1 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5686" target="5723">
+            <data key="name">STXBP1 (interacts with) APBA1</data>
+        </edge>
+        <edge source="5686" target="5653">
+            <data key="name">STXBP1 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5686" target="5730">
+            <data key="name">STXBP1 (interacts with) SYP</data>
+        </edge>
+        <edge source="5686" target="5669">
+            <data key="name">STXBP1 (interacts with) DNM1</data>
+        </edge>
+        <edge source="5686" target="5688">
+            <data key="name">STXBP1 (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5686" target="5682">
+            <data key="name">STXBP1 (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5686" target="5679">
+            <data key="name">STXBP1 (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5686" target="5706">
+            <data key="name">STXBP1 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5686" target="5648">
+            <data key="name">STXBP1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5686" target="5649">
+            <data key="name">STXBP1 (interacts with) STX16</data>
+        </edge>
+        <edge source="5686" target="5719">
+            <data key="name">STXBP1 (interacts with) VPS18</data>
+        </edge>
+        <edge source="5686" target="5722">
+            <data key="name">STXBP1 (interacts with) NAPA</data>
+        </edge>
+        <edge source="5686" target="5696">
+            <data key="name">STXBP1 (interacts with) STX5</data>
+        </edge>
+        <edge source="5685" target="5675">
+            <data key="name">PRKCB (interacts with) EGFR</data>
+        </edge>
+        <edge source="5685" target="5686">
+            <data key="name">PRKCB (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5684" target="5699">
+            <data key="name">ATP6V1H (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5684" target="5703">
+            <data key="name">ATP6V1H (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5684" target="5692">
+            <data key="name">ATP6V1H (interacts with) RAB11B</data>
+        </edge>
+        <edge source="5684" target="5646">
+            <data key="name">ATP6V1H (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5684" target="5698">
+            <data key="name">ATP6V1H (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5684" target="5711">
+            <data key="name">ATP6V1H (interacts with) ATP6V0C</data>
+        </edge>
+        <edge source="5684" target="5697">
+            <data key="name">ATP6V1H (interacts with) ATP6V1B1</data>
+        </edge>
+        <edge source="5684" target="5700">
+            <data key="name">ATP6V1H (interacts with) ATP6V1A</data>
+        </edge>
+        <edge source="5684" target="5702">
+            <data key="name">ATP6V1H (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5683" target="5730">
+            <data key="name">EPN1 (interacts with) SYP</data>
+        </edge>
+        <edge source="5683" target="5734">
+            <data key="name">EPN1 (interacts with) VTI1A</data>
+        </edge>
+        <edge source="5683" target="5693">
+            <data key="name">EPN1 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5683" target="5680">
+            <data key="name">EPN1 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5683" target="5691">
+            <data key="name">EPN1 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5683" target="5715">
+            <data key="name">EPN1 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5683" target="5706">
+            <data key="name">EPN1 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5683" target="5648">
+            <data key="name">EPN1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5683" target="5670">
+            <data key="name">EPN1 (interacts with) EPN2</data>
+        </edge>
+        <edge source="5683" target="5669">
+            <data key="name">EPN1 (interacts with) DNM1</data>
+        </edge>
+        <edge source="5683" target="5677">
+            <data key="name">EPN1 (interacts with) DNM2</data>
+        </edge>
+        <edge source="5683" target="5687">
+            <data key="name">EPN1 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5683" target="5668">
+            <data key="name">EPN1 (interacts with) AMPH</data>
+        </edge>
+        <edge source="5683" target="5660">
+            <data key="name">EPN1 (interacts with) SNAP91</data>
+        </edge>
+        <edge source="5682" target="5715">
+            <data key="name">RAB7A (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5682" target="5719">
+            <data key="name">RAB7A (interacts with) VPS18</data>
+        </edge>
+        <edge source="5682" target="5718">
+            <data key="name">RAB7A (interacts with) VPS16</data>
+        </edge>
+        <edge source="5682" target="5717">
+            <data key="name">RAB7A (interacts with) VPS11</data>
+        </edge>
+        <edge source="5682" target="5692">
+            <data key="name">RAB7A (interacts with) RAB11B</data>
+        </edge>
+        <edge source="5682" target="5716">
+            <data key="name">RAB7A (interacts with) RABGGTB</data>
+        </edge>
+        <edge source="5682" target="5709">
+            <data key="name">RAB7A (interacts with) CHM</data>
+        </edge>
+        <edge source="5682" target="5698">
+            <data key="name">RAB7A (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5682" target="5699">
+            <data key="name">RAB7A (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5682" target="5646">
+            <data key="name">RAB7A (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5682" target="5706">
+            <data key="name">RAB7A (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5682" target="5722">
+            <data key="name">RAB7A (interacts with) NAPA</data>
+        </edge>
+        <edge source="5682" target="5713">
+            <data key="name">RAB7A (interacts with) RABAC1</data>
+        </edge>
+        <edge source="5682" target="5681">
+            <data key="name">RAB7A (interacts with) CDH1</data>
+        </edge>
+        <edge source="5681" target="5696">
+            <data key="name">CDH1 (interacts with) STX5</data>
+        </edge>
+        <edge source="5681" target="5695">
+            <data key="name">CDH1 (interacts with) MAGI3</data>
+        </edge>
+        <edge source="5681" target="5694">
+            <data key="name">CDH1 (interacts with) SHANK2</data>
+        </edge>
+        <edge source="5681" target="5670">
+            <data key="name">CDH1 (interacts with) EPN2</data>
+        </edge>
+        <edge source="5681" target="5693">
+            <data key="name">CDH1 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5681" target="5692">
+            <data key="name">CDH1 (interacts with) RAB11B</data>
+        </edge>
+        <edge source="5681" target="5671">
+            <data key="name">CDH1 (interacts with) VAPB</data>
+        </edge>
+        <edge source="5681" target="5659">
+            <data key="name">CDH1 (interacts with) SYT7</data>
+        </edge>
+        <edge source="5681" target="5657">
+            <data key="name">CDH1 (interacts with) SYNJ1</data>
+        </edge>
+        <edge source="5681" target="5654">
+            <data key="name">CDH1 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5681" target="5691">
+            <data key="name">CDH1 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5681" target="5690">
+            <data key="name">CDH1 (interacts with) DLG1</data>
+        </edge>
+        <edge source="5681" target="5689">
+            <data key="name">CDH1 (interacts with) SCRIB</data>
+        </edge>
+        <edge source="5680" target="5693">
+            <data key="name">AP2S1 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5680" target="5648">
+            <data key="name">AP2S1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5679" target="5706">
+            <data key="name">VPS33B (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5679" target="5681">
+            <data key="name">VPS33B (interacts with) CDH1</data>
+        </edge>
+        <edge source="5679" target="5697">
+            <data key="name">VPS33B (interacts with) ATP6V1B1</data>
+        </edge>
+        <edge source="5679" target="5654">
+            <data key="name">VPS33B (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5679" target="5653">
+            <data key="name">VPS33B (interacts with) STX1B</data>
+        </edge>
+        <edge source="5679" target="5650">
+            <data key="name">VPS33B (interacts with) STX1A</data>
+        </edge>
+        <edge source="5679" target="5722">
+            <data key="name">VPS33B (interacts with) NAPA</data>
+        </edge>
+        <edge source="5679" target="5682">
+            <data key="name">VPS33B (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5679" target="5696">
+            <data key="name">VPS33B (interacts with) STX5</data>
+        </edge>
+        <edge source="5679" target="5719">
+            <data key="name">VPS33B (interacts with) VPS18</data>
+        </edge>
+        <edge source="5678" target="5691">
+            <data key="name">CTNNA1 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5678" target="5690">
+            <data key="name">CTNNA1 (interacts with) DLG1</data>
+        </edge>
+        <edge source="5678" target="5681">
+            <data key="name">CTNNA1 (interacts with) CDH1</data>
+        </edge>
+        <edge source="5677" target="5714">
+            <data key="name">DNM2 (interacts with) SNAPIN</data>
+        </edge>
+        <edge source="5677" target="5691">
+            <data key="name">DNM2 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5677" target="5712">
+            <data key="name">DNM2 (interacts with) PFN2</data>
+        </edge>
+        <edge source="5677" target="5738">
+            <data key="name">DNM2 (interacts with) CTNND2</data>
+        </edge>
+        <edge source="5677" target="5729">
+            <data key="name">DNM2 (interacts with) NOS1</data>
+        </edge>
+        <edge source="5677" target="5682">
+            <data key="name">DNM2 (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5677" target="5694">
+            <data key="name">DNM2 (interacts with) SHANK2</data>
+        </edge>
+        <edge source="5677" target="5680">
+            <data key="name">DNM2 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5677" target="5678">
+            <data key="name">DNM2 (interacts with) CTNNA1</data>
+        </edge>
+        <edge source="5677" target="5648">
+            <data key="name">DNM2 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5677" target="5706">
+            <data key="name">DNM2 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5677" target="5670">
+            <data key="name">DNM2 (interacts with) EPN2</data>
+        </edge>
+        <edge source="5677" target="5646">
+            <data key="name">DNM2 (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5677" target="5661">
+            <data key="name">DNM2 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5677" target="5715">
+            <data key="name">DNM2 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5677" target="5676">
+            <data key="name">DNM2 (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5677" target="5681">
+            <data key="name">DNM2 (interacts with) CDH1</data>
+        </edge>
+        <edge source="5677" target="5687">
+            <data key="name">DNM2 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5677" target="5658">
+            <data key="name">DNM2 (interacts with) CLTC</data>
+        </edge>
+        <edge source="5677" target="5693">
+            <data key="name">DNM2 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5676" target="5713">
+            <data key="name">CTNNB1 (interacts with) RABAC1</data>
+        </edge>
+        <edge source="5676" target="5678">
+            <data key="name">CTNNB1 (interacts with) CTNNA1</data>
+        </edge>
+        <edge source="5676" target="5689">
+            <data key="name">CTNNB1 (interacts with) SCRIB</data>
+        </edge>
+        <edge source="5676" target="5738">
+            <data key="name">CTNNB1 (interacts with) CTNND2</data>
+        </edge>
+        <edge source="5676" target="5695">
+            <data key="name">CTNNB1 (interacts with) MAGI3</data>
+        </edge>
+        <edge source="5676" target="5682">
+            <data key="name">CTNNB1 (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5676" target="5681">
+            <data key="name">CTNNB1 (interacts with) CDH1</data>
+        </edge>
+        <edge source="5675" target="5666">
+            <data key="name">EGFR (interacts with) NSF</data>
+        </edge>
+        <edge source="5675" target="5677">
+            <data key="name">EGFR (interacts with) DNM2</data>
+        </edge>
+        <edge source="5675" target="5684">
+            <data key="name">EGFR (interacts with) ATP6V1H</data>
+        </edge>
+        <edge source="5675" target="5683">
+            <data key="name">EGFR (interacts with) EPN1</data>
+        </edge>
+        <edge source="5675" target="5682">
+            <data key="name">EGFR (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5675" target="5676">
+            <data key="name">EGFR (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5675" target="5681">
+            <data key="name">EGFR (interacts with) CDH1</data>
+        </edge>
+        <edge source="5675" target="5680">
+            <data key="name">EGFR (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5675" target="5679">
+            <data key="name">EGFR (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5675" target="5654">
+            <data key="name">EGFR (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5675" target="5678">
+            <data key="name">EGFR (interacts with) CTNNA1</data>
+        </edge>
+        <edge source="5675" target="5723">
+            <data key="name">EGFR (interacts with) APBA1</data>
+        </edge>
+        <edge source="5675" target="5735">
+            <data key="name">EGFR (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5675" target="5706">
+            <data key="name">EGFR (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5675" target="5693">
+            <data key="name">EGFR (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5675" target="5648">
+            <data key="name">EGFR (interacts with) SYT1</data>
+        </edge>
+        <edge source="5675" target="5658">
+            <data key="name">EGFR (interacts with) CLTC</data>
+        </edge>
+        <edge source="5674" target="5661">
+            <data key="name">ABL1 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5674" target="5646">
+            <data key="name">ABL1 (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5674" target="5669">
+            <data key="name">ABL1 (interacts with) DNM1</data>
+        </edge>
+        <edge source="5674" target="5667">
+            <data key="name">ABL1 (interacts with) GABBR1</data>
+        </edge>
+        <edge source="5674" target="5677">
+            <data key="name">ABL1 (interacts with) DNM2</data>
+        </edge>
+        <edge source="5674" target="5676">
+            <data key="name">ABL1 (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5674" target="5675">
+            <data key="name">ABL1 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5674" target="5738">
+            <data key="name">ABL1 (interacts with) CTNND2</data>
+        </edge>
+        <edge source="5674" target="5681">
+            <data key="name">ABL1 (interacts with) CDH1</data>
+        </edge>
+        <edge source="5674" target="5678">
+            <data key="name">ABL1 (interacts with) CTNNA1</data>
+        </edge>
+        <edge source="5673" target="5654">
+            <data key="name">RAB3GAP2 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5672" target="5673">
+            <data key="name">RAB3GAP1 (interacts with) RAB3GAP2</data>
+        </edge>
+        <edge source="5672" target="5710">
+            <data key="name">RAB3GAP1 (interacts with) RAB3B</data>
+        </edge>
+        <edge source="5672" target="5665">
+            <data key="name">RAB3GAP1 (interacts with) GABBR2</data>
+        </edge>
+        <edge source="5671" target="5673">
+            <data key="name">VAPB (interacts with) RAB3GAP2</data>
+        </edge>
+        <edge source="5671" target="5672">
+            <data key="name">VAPB (interacts with) RAB3GAP1</data>
+        </edge>
+        <edge source="5671" target="5696">
+            <data key="name">VAPB (interacts with) STX5</data>
+        </edge>
+        <edge source="5671" target="5706">
+            <data key="name">VAPB (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5670" target="5658">
+            <data key="name">EPN2 (interacts with) CLTC</data>
+        </edge>
+        <edge source="5670" target="5656">
+            <data key="name">EPN2 (interacts with) RAB3IP</data>
+        </edge>
+        <edge source="5670" target="5648">
+            <data key="name">EPN2 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5670" target="5680">
+            <data key="name">EPN2 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5670" target="5675">
+            <data key="name">EPN2 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5670" target="5693">
+            <data key="name">EPN2 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5670" target="5706">
+            <data key="name">EPN2 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5670" target="5646">
+            <data key="name">EPN2 (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5670" target="5687">
+            <data key="name">EPN2 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5670" target="5661">
+            <data key="name">EPN2 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5669" target="5691">
+            <data key="name">DNM1 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5669" target="5654">
+            <data key="name">DNM1 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5669" target="5712">
+            <data key="name">DNM1 (interacts with) PFN2</data>
+        </edge>
+        <edge source="5669" target="5682">
+            <data key="name">DNM1 (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5669" target="5729">
+            <data key="name">DNM1 (interacts with) NOS1</data>
+        </edge>
+        <edge source="5669" target="5680">
+            <data key="name">DNM1 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5669" target="5677">
+            <data key="name">DNM1 (interacts with) DNM2</data>
+        </edge>
+        <edge source="5669" target="5706">
+            <data key="name">DNM1 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5669" target="5670">
+            <data key="name">DNM1 (interacts with) EPN2</data>
+        </edge>
+        <edge source="5669" target="5646">
+            <data key="name">DNM1 (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5669" target="5675">
+            <data key="name">DNM1 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5669" target="5715">
+            <data key="name">DNM1 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5669" target="5661">
+            <data key="name">DNM1 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5669" target="5687">
+            <data key="name">DNM1 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5669" target="5660">
+            <data key="name">DNM1 (interacts with) SNAP91</data>
+        </edge>
+        <edge source="5669" target="5648">
+            <data key="name">DNM1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5669" target="5693">
+            <data key="name">DNM1 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5669" target="5658">
+            <data key="name">DNM1 (interacts with) CLTC</data>
+        </edge>
+        <edge source="5668" target="5680">
+            <data key="name">AMPH (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5668" target="5646">
+            <data key="name">AMPH (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5668" target="5661">
+            <data key="name">AMPH (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5668" target="5658">
+            <data key="name">AMPH (interacts with) CLTC</data>
+        </edge>
+        <edge source="5668" target="5677">
+            <data key="name">AMPH (interacts with) DNM2</data>
+        </edge>
+        <edge source="5668" target="5669">
+            <data key="name">AMPH (interacts with) DNM1</data>
+        </edge>
+        <edge source="5668" target="5715">
+            <data key="name">AMPH (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5668" target="5706">
+            <data key="name">AMPH (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5668" target="5687">
+            <data key="name">AMPH (interacts with) CLTB</data>
+        </edge>
+        <edge source="5668" target="5675">
+            <data key="name">AMPH (interacts with) EGFR</data>
+        </edge>
+        <edge source="5668" target="5648">
+            <data key="name">AMPH (interacts with) SYT1</data>
+        </edge>
+        <edge source="5668" target="5670">
+            <data key="name">AMPH (interacts with) EPN2</data>
+        </edge>
+        <edge source="5668" target="5693">
+            <data key="name">AMPH (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5667" target="5637">
+            <data key="name">GABBR1 (interacts with) GRM8</data>
+        </edge>
+        <edge source="5667" target="5726">
+            <data key="name">GABBR1 (interacts with) GRM3</data>
+        </edge>
+        <edge source="5666" target="5654">
+            <data key="name">NSF (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5666" target="5699">
+            <data key="name">NSF (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5666" target="5696">
+            <data key="name">NSF (interacts with) STX5</data>
+        </edge>
+        <edge source="5666" target="5705">
+            <data key="name">NSF (interacts with) STX12</data>
+        </edge>
+        <edge source="5666" target="5707">
+            <data key="name">NSF (interacts with) VTI1B</data>
+        </edge>
+        <edge source="5666" target="5667">
+            <data key="name">NSF (interacts with) GABBR1</data>
+        </edge>
+        <edge source="5666" target="5714">
+            <data key="name">NSF (interacts with) SNAPIN</data>
+        </edge>
+        <edge source="5666" target="5677">
+            <data key="name">NSF (interacts with) DNM2</data>
+        </edge>
+        <edge source="5666" target="5669">
+            <data key="name">NSF (interacts with) DNM1</data>
+        </edge>
+        <edge source="5666" target="5730">
+            <data key="name">NSF (interacts with) SYP</data>
+        </edge>
+        <edge source="5666" target="5652">
+            <data key="name">NSF (interacts with) UNC13B</data>
+        </edge>
+        <edge source="5666" target="5715">
+            <data key="name">NSF (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5666" target="5688">
+            <data key="name">NSF (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5666" target="5679">
+            <data key="name">NSF (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5666" target="5648">
+            <data key="name">NSF (interacts with) SYT1</data>
+        </edge>
+        <edge source="5666" target="5682">
+            <data key="name">NSF (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5666" target="5706">
+            <data key="name">NSF (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5666" target="5653">
+            <data key="name">NSF (interacts with) STX1B</data>
+        </edge>
+        <edge source="5666" target="5686">
+            <data key="name">NSF (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5666" target="5651">
+            <data key="name">NSF (interacts with) STX2</data>
+        </edge>
+        <edge source="5666" target="5727">
+            <data key="name">NSF (interacts with) GRIP1</data>
+        </edge>
+        <edge source="5666" target="5736">
+            <data key="name">NSF (interacts with) PICK1</data>
+        </edge>
+        <edge source="5666" target="5734">
+            <data key="name">NSF (interacts with) VTI1A</data>
+        </edge>
+        <edge source="5666" target="5649">
+            <data key="name">NSF (interacts with) STX16</data>
+        </edge>
+        <edge source="5666" target="5722">
+            <data key="name">NSF (interacts with) NAPA</data>
+        </edge>
+        <edge source="5665" target="5667">
+            <data key="name">GABBR2 (interacts with) GABBR1</data>
+        </edge>
+        <edge source="5665" target="5666">
+            <data key="name">GABBR2 (interacts with) NSF</data>
+        </edge>
+        <edge source="5665" target="5635">
+            <data key="name">GABBR2 (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5664" target="5676">
+            <data key="name">PTPRF (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5664" target="5675">
+            <data key="name">PTPRF (interacts with) EGFR</data>
+        </edge>
+        <edge source="5664" target="5715">
+            <data key="name">PTPRF (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5664" target="5681">
+            <data key="name">PTPRF (interacts with) CDH1</data>
+        </edge>
+        <edge source="5664" target="5689">
+            <data key="name">PTPRF (interacts with) SCRIB</data>
+        </edge>
+        <edge source="5663" target="5664">
+            <data key="name">PPFIA2 (interacts with) PTPRF</data>
+        </edge>
+        <edge source="5663" target="5652">
+            <data key="name">PPFIA2 (interacts with) UNC13B</data>
+        </edge>
+        <edge source="5663" target="5635">
+            <data key="name">PPFIA2 (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5663" target="5650">
+            <data key="name">PPFIA2 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5663" target="5654">
+            <data key="name">PPFIA2 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5663" target="5648">
+            <data key="name">PPFIA2 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5663" target="5723">
+            <data key="name">PPFIA2 (interacts with) APBA1</data>
+        </edge>
+        <edge source="5663" target="5735">
+            <data key="name">PPFIA2 (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5662" target="5669">
+            <data key="name">AP2A2 (interacts with) DNM1</data>
+        </edge>
+        <edge source="5662" target="5661">
+            <data key="name">AP2A2 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5662" target="5668">
+            <data key="name">AP2A2 (interacts with) AMPH</data>
+        </edge>
+        <edge source="5662" target="5722">
+            <data key="name">AP2A2 (interacts with) NAPA</data>
+        </edge>
+        <edge source="5662" target="5693">
+            <data key="name">AP2A2 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5662" target="5691">
+            <data key="name">AP2A2 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5662" target="5721">
+            <data key="name">AP2A2 (interacts with) EPHB1</data>
+        </edge>
+        <edge source="5662" target="5715">
+            <data key="name">AP2A2 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5662" target="5706">
+            <data key="name">AP2A2 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5662" target="5675">
+            <data key="name">AP2A2 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5662" target="5677">
+            <data key="name">AP2A2 (interacts with) DNM2</data>
+        </edge>
+        <edge source="5662" target="5657">
+            <data key="name">AP2A2 (interacts with) SYNJ1</data>
+        </edge>
+        <edge source="5662" target="5648">
+            <data key="name">AP2A2 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5662" target="5670">
+            <data key="name">AP2A2 (interacts with) EPN2</data>
+        </edge>
+        <edge source="5662" target="5687">
+            <data key="name">AP2A2 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5662" target="5683">
+            <data key="name">AP2A2 (interacts with) EPN1</data>
+        </edge>
+        <edge source="5662" target="5680">
+            <data key="name">AP2A2 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5661" target="5683">
+            <data key="name">AP2B1 (interacts with) EPN1</data>
+        </edge>
+        <edge source="5661" target="5648">
+            <data key="name">AP2B1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5661" target="5706">
+            <data key="name">AP2B1 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5661" target="5693">
+            <data key="name">AP2B1 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5661" target="5675">
+            <data key="name">AP2B1 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5661" target="5687">
+            <data key="name">AP2B1 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5661" target="5680">
+            <data key="name">AP2B1 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5660" target="5662">
+            <data key="name">SNAP91 (interacts with) AP2A2</data>
+        </edge>
+        <edge source="5660" target="5661">
+            <data key="name">SNAP91 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5660" target="5730">
+            <data key="name">SNAP91 (interacts with) SYP</data>
+        </edge>
+        <edge source="5660" target="5715">
+            <data key="name">SNAP91 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5660" target="5693">
+            <data key="name">SNAP91 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5660" target="5706">
+            <data key="name">SNAP91 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5660" target="5675">
+            <data key="name">SNAP91 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5660" target="5680">
+            <data key="name">SNAP91 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5660" target="5687">
+            <data key="name">SNAP91 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5660" target="5677">
+            <data key="name">SNAP91 (interacts with) DNM2</data>
+        </edge>
+        <edge source="5660" target="5648">
+            <data key="name">SNAP91 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5660" target="5646">
+            <data key="name">SNAP91 (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5660" target="5670">
+            <data key="name">SNAP91 (interacts with) EPN2</data>
+        </edge>
+        <edge source="5660" target="5668">
+            <data key="name">SNAP91 (interacts with) AMPH</data>
+        </edge>
+        <edge source="5659" target="5651">
+            <data key="name">SYT7 (interacts with) STX2</data>
+        </edge>
+        <edge source="5659" target="5650">
+            <data key="name">SYT7 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5659" target="5654">
+            <data key="name">SYT7 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5658" target="5660">
+            <data key="name">CLTC (interacts with) SNAP91</data>
+        </edge>
+        <edge source="5658" target="5662">
+            <data key="name">CLTC (interacts with) AP2A2</data>
+        </edge>
+        <edge source="5658" target="5683">
+            <data key="name">CLTC (interacts with) EPN1</data>
+        </edge>
+        <edge source="5658" target="5698">
+            <data key="name">CLTC (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5658" target="5707">
+            <data key="name">CLTC (interacts with) VTI1B</data>
+        </edge>
+        <edge source="5658" target="5702">
+            <data key="name">CLTC (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5658" target="5661">
+            <data key="name">CLTC (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5658" target="5692">
+            <data key="name">CLTC (interacts with) RAB11B</data>
+        </edge>
+        <edge source="5658" target="5699">
+            <data key="name">CLTC (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5658" target="5682">
+            <data key="name">CLTC (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5658" target="5693">
+            <data key="name">CLTC (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5658" target="5648">
+            <data key="name">CLTC (interacts with) SYT1</data>
+        </edge>
+        <edge source="5658" target="5706">
+            <data key="name">CLTC (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5658" target="5680">
+            <data key="name">CLTC (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5657" target="5658">
+            <data key="name">SYNJ1 (interacts with) CLTC</data>
+        </edge>
+        <edge source="5657" target="5646">
+            <data key="name">SYNJ1 (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5657" target="5734">
+            <data key="name">SYNJ1 (interacts with) VTI1A</data>
+        </edge>
+        <edge source="5657" target="5700">
+            <data key="name">SYNJ1 (interacts with) ATP6V1A</data>
+        </edge>
+        <edge source="5657" target="5715">
+            <data key="name">SYNJ1 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5657" target="5680">
+            <data key="name">SYNJ1 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5657" target="5706">
+            <data key="name">SYNJ1 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5657" target="5687">
+            <data key="name">SYNJ1 (interacts with) CLTB</data>
+        </edge>
+        <edge source="5657" target="5691">
+            <data key="name">SYNJ1 (interacts with) CTTN</data>
+        </edge>
+        <edge source="5657" target="5675">
+            <data key="name">SYNJ1 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5657" target="5648">
+            <data key="name">SYNJ1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5657" target="5677">
+            <data key="name">SYNJ1 (interacts with) DNM2</data>
+        </edge>
+        <edge source="5657" target="5670">
+            <data key="name">SYNJ1 (interacts with) EPN2</data>
+        </edge>
+        <edge source="5657" target="5693">
+            <data key="name">SYNJ1 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5657" target="5683">
+            <data key="name">SYNJ1 (interacts with) EPN1</data>
+        </edge>
+        <edge source="5657" target="5661">
+            <data key="name">SYNJ1 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5657" target="5669">
+            <data key="name">SYNJ1 (interacts with) DNM1</data>
+        </edge>
+        <edge source="5657" target="5660">
+            <data key="name">SYNJ1 (interacts with) SNAP91</data>
+        </edge>
+        <edge source="5657" target="5668">
+            <data key="name">SYNJ1 (interacts with) AMPH</data>
+        </edge>
+        <edge source="5656" target="5686">
+            <data key="name">RAB3IP (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5656" target="5692">
+            <data key="name">RAB3IP (interacts with) RAB11B</data>
+        </edge>
+        <edge source="5655" target="5656">
+            <data key="name">SIPA1L1 (interacts with) RAB3IP</data>
+        </edge>
+        <edge source="5655" target="5690">
+            <data key="name">SIPA1L1 (interacts with) DLG1</data>
+        </edge>
+        <edge source="5655" target="5728">
+            <data key="name">SIPA1L1 (interacts with) DLG2</data>
+        </edge>
+        <edge source="5654" target="5696">
+            <data key="name">SNAP25 (interacts with) STX5</data>
+        </edge>
+        <edge source="5654" target="5686">
+            <data key="name">SNAP25 (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5654" target="5714">
+            <data key="name">SNAP25 (interacts with) SNAPIN</data>
+        </edge>
+        <edge source="5654" target="5735">
+            <data key="name">SNAP25 (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5654" target="5635">
+            <data key="name">SNAP25 (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5654" target="5653">
+            <data key="name">SNAP25 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5653" target="5671">
+            <data key="name">STX1B (interacts with) VAPB</data>
+        </edge>
+        <edge source="5652" target="5654">
+            <data key="name">UNC13B (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5652" target="5648">
+            <data key="name">UNC13B (interacts with) SYT1</data>
+        </edge>
+        <edge source="5652" target="5653">
+            <data key="name">UNC13B (interacts with) STX1B</data>
+        </edge>
+        <edge source="5652" target="5650">
+            <data key="name">UNC13B (interacts with) STX1A</data>
+        </edge>
+        <edge source="5652" target="5710">
+            <data key="name">UNC13B (interacts with) RAB3B</data>
+        </edge>
+        <edge source="5652" target="5647">
+            <data key="name">UNC13B (interacts with) RIMBP2</data>
+        </edge>
+        <edge source="5652" target="5686">
+            <data key="name">UNC13B (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5652" target="5735">
+            <data key="name">UNC13B (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5652" target="5673">
+            <data key="name">UNC13B (interacts with) RAB3GAP2</data>
+        </edge>
+        <edge source="5652" target="5723">
+            <data key="name">UNC13B (interacts with) APBA1</data>
+        </edge>
+        <edge source="5652" target="5635">
+            <data key="name">UNC13B (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5651" target="5648">
+            <data key="name">STX2 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5651" target="5671">
+            <data key="name">STX2 (interacts with) VAPB</data>
+        </edge>
+        <edge source="5651" target="5706">
+            <data key="name">STX2 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5651" target="5652">
+            <data key="name">STX2 (interacts with) UNC13B</data>
+        </edge>
+        <edge source="5651" target="5686">
+            <data key="name">STX2 (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5651" target="5654">
+            <data key="name">STX2 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5651" target="5710">
+            <data key="name">STX2 (interacts with) RAB3B</data>
+        </edge>
+        <edge source="5651" target="5692">
+            <data key="name">STX2 (interacts with) RAB11B</data>
+        </edge>
+        <edge source="5651" target="5679">
+            <data key="name">STX2 (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5651" target="5688">
+            <data key="name">STX2 (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5651" target="5705">
+            <data key="name">STX2 (interacts with) STX12</data>
+        </edge>
+        <edge source="5651" target="5653">
+            <data key="name">STX2 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5651" target="5696">
+            <data key="name">STX2 (interacts with) STX5</data>
+        </edge>
+        <edge source="5651" target="5722">
+            <data key="name">STX2 (interacts with) NAPA</data>
+        </edge>
+        <edge source="5650" target="5730">
+            <data key="name">STX1A (interacts with) SYP</data>
+        </edge>
+        <edge source="5650" target="5671">
+            <data key="name">STX1A (interacts with) VAPB</data>
+        </edge>
+        <edge source="5650" target="5697">
+            <data key="name">STX1A (interacts with) ATP6V1B1</data>
+        </edge>
+        <edge source="5650" target="5719">
+            <data key="name">STX1A (interacts with) VPS18</data>
+        </edge>
+        <edge source="5650" target="5717">
+            <data key="name">STX1A (interacts with) VPS11</data>
+        </edge>
+        <edge source="5650" target="5666">
+            <data key="name">STX1A (interacts with) NSF</data>
+        </edge>
+        <edge source="5650" target="5654">
+            <data key="name">STX1A (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5650" target="5705">
+            <data key="name">STX1A (interacts with) STX12</data>
+        </edge>
+        <edge source="5650" target="5651">
+            <data key="name">STX1A (interacts with) STX2</data>
+        </edge>
+        <edge source="5650" target="5735">
+            <data key="name">STX1A (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5650" target="5653">
+            <data key="name">STX1A (interacts with) STX1B</data>
+        </edge>
+        <edge source="5650" target="5635">
+            <data key="name">STX1A (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5649" target="5651">
+            <data key="name">STX16 (interacts with) STX2</data>
+        </edge>
+        <edge source="5649" target="5650">
+            <data key="name">STX16 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5649" target="5682">
+            <data key="name">STX16 (interacts with) RAB7A</data>
+        </edge>
+        <edge source="5649" target="5715">
+            <data key="name">STX16 (interacts with) RAB5C</data>
+        </edge>
+        <edge source="5649" target="5719">
+            <data key="name">STX16 (interacts with) VPS18</data>
+        </edge>
+        <edge source="5649" target="5679">
+            <data key="name">STX16 (interacts with) VPS33B</data>
+        </edge>
+        <edge source="5649" target="5688">
+            <data key="name">STX16 (interacts with) VPS33A</data>
+        </edge>
+        <edge source="5649" target="5653">
+            <data key="name">STX16 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5649" target="5654">
+            <data key="name">STX16 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5649" target="5706">
+            <data key="name">STX16 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5649" target="5696">
+            <data key="name">STX16 (interacts with) STX5</data>
+        </edge>
+        <edge source="5649" target="5722">
+            <data key="name">STX16 (interacts with) NAPA</data>
+        </edge>
+        <edge source="5648" target="5713">
+            <data key="name">SYT1 (interacts with) RABAC1</data>
+        </edge>
+        <edge source="5648" target="5735">
+            <data key="name">SYT1 (interacts with) LIN7B</data>
+        </edge>
+        <edge source="5648" target="5635">
+            <data key="name">SYT1 (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5648" target="5653">
+            <data key="name">SYT1 (interacts with) STX1B</data>
+        </edge>
+        <edge source="5648" target="5654">
+            <data key="name">SYT1 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5648" target="5650">
+            <data key="name">SYT1 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5646" target="5683">
+            <data key="name">AP2M1 (interacts with) EPN1</data>
+        </edge>
+        <edge source="5646" target="5680">
+            <data key="name">AP2M1 (interacts with) AP2S1</data>
+        </edge>
+        <edge source="5646" target="5681">
+            <data key="name">AP2M1 (interacts with) CDH1</data>
+        </edge>
+        <edge source="5646" target="5676">
+            <data key="name">AP2M1 (interacts with) CTNNB1</data>
+        </edge>
+        <edge source="5646" target="5661">
+            <data key="name">AP2M1 (interacts with) AP2B1</data>
+        </edge>
+        <edge source="5646" target="5662">
+            <data key="name">AP2M1 (interacts with) AP2A2</data>
+        </edge>
+        <edge source="5646" target="5693">
+            <data key="name">AP2M1 (interacts with) PACSIN2</data>
+        </edge>
+        <edge source="5646" target="5706">
+            <data key="name">AP2M1 (interacts with) VAMP8</data>
+        </edge>
+        <edge source="5646" target="5648">
+            <data key="name">AP2M1 (interacts with) SYT1</data>
+        </edge>
+        <edge source="5646" target="5675">
+            <data key="name">AP2M1 (interacts with) EGFR</data>
+        </edge>
+        <edge source="5646" target="5658">
+            <data key="name">AP2M1 (interacts with) CLTC</data>
+        </edge>
+        <edge source="5645" target="5648">
+            <data key="name">CACNA1A (interacts with) SYT1</data>
+        </edge>
+        <edge source="5645" target="5647">
+            <data key="name">CACNA1A (interacts with) RIMBP2</data>
+        </edge>
+        <edge source="5645" target="5646">
+            <data key="name">CACNA1A (interacts with) AP2M1</data>
+        </edge>
+        <edge source="5645" target="5724">
+            <data key="name">CACNA1A (interacts with) ATP2B2</data>
+        </edge>
+        <edge source="5645" target="5685">
+            <data key="name">CACNA1A (interacts with) PRKCB</data>
+        </edge>
+        <edge source="5643" target="5644">
+            <data key="name">PLXNA3 (interacts with) SEMA5B</data>
+        </edge>
+        <edge source="5642" target="5658">
+            <data key="name">CIT (interacts with) CLTC</data>
+        </edge>
+        <edge source="5640" target="5654">
+            <data key="name">SYNPR (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5640" target="5648">
+            <data key="name">SYNPR (interacts with) SYT1</data>
+        </edge>
+        <edge source="5640" target="5641">
+            <data key="name">SYNPR (interacts with) SYNGR2</data>
+        </edge>
+        <edge source="5639" target="5665">
+            <data key="name">SLC17A6 (interacts with) GABBR2</data>
+        </edge>
+        <edge source="5639" target="5635">
+            <data key="name">SLC17A6 (interacts with) SLC17A7</data>
+        </edge>
+        <edge source="5638" target="5712">
+            <data key="name">PFN4 (interacts with) PFN2</data>
+        </edge>
+        <edge source="5637" target="5665">
+            <data key="name">GRM8 (interacts with) GABBR2</data>
+        </edge>
+        <edge source="5636" target="5724">
+            <data key="name">ITPR3 (interacts with) ATP2B2</data>
+        </edge>
+        <edge source="5636" target="5729">
+            <data key="name">ITPR3 (interacts with) NOS1</data>
+        </edge>
+        <edge source="5636" target="5686">
+            <data key="name">ITPR3 (interacts with) STXBP1</data>
+        </edge>
+        <edge source="5636" target="5650">
+            <data key="name">ITPR3 (interacts with) STX1A</data>
+        </edge>
+        <edge source="5636" target="5685">
+            <data key="name">ITPR3 (interacts with) PRKCB</data>
+        </edge>
+        <edge source="5636" target="5654">
+            <data key="name">ITPR3 (interacts with) SNAP25</data>
+        </edge>
+        <edge source="5634" target="5700">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V1A</data>
+        </edge>
+        <edge source="5634" target="5684">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V1H</data>
+        </edge>
+        <edge source="5634" target="5702">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5634" target="5711">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V0C</data>
+        </edge>
+        <edge source="5634" target="5703">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5634" target="5697">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V1B1</data>
+        </edge>
+        <edge source="5634" target="5701">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V1C1</data>
+        </edge>
+        <edge source="5634" target="5699">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5634" target="5698">
+            <data key="name">ATP6V0E2 (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5633" target="5634">
+            <data key="name">ATP6V0B (interacts with) ATP6V0E2</data>
+        </edge>
+        <edge source="5633" target="5703">
+            <data key="name">ATP6V0B (interacts with) ATP6V1E1</data>
+        </edge>
+        <edge source="5633" target="5701">
+            <data key="name">ATP6V0B (interacts with) ATP6V1C1</data>
+        </edge>
+        <edge source="5633" target="5697">
+            <data key="name">ATP6V0B (interacts with) ATP6V1B1</data>
+        </edge>
+        <edge source="5633" target="5684">
+            <data key="name">ATP6V0B (interacts with) ATP6V1H</data>
+        </edge>
+        <edge source="5633" target="5708">
+            <data key="name">ATP6V0B (interacts with) ATP6V1F</data>
+        </edge>
+        <edge source="5633" target="5698">
+            <data key="name">ATP6V0B (interacts with) ATP6V0A1</data>
+        </edge>
+        <edge source="5633" target="5711">
+            <data key="name">ATP6V0B (interacts with) ATP6V0C</data>
+        </edge>
+        <edge source="5633" target="5702">
+            <data key="name">ATP6V0B (interacts with) ATP6V1D</data>
+        </edge>
+        <edge source="5633" target="5699">
+            <data key="name">ATP6V0B (interacts with) ATP6V0D1</data>
+        </edge>
+        <edge source="5633" target="5700">
+            <data key="name">ATP6V0B (interacts with) ATP6V1A</data>
+        </edge>
+    </graph>
+</graphml>
